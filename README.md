@@ -24,4 +24,4 @@ The datasets are [BootEA](https://github.com/nju-websoft/BootEA)
 
 ## Acknowledgement
 
-We refer to the codes of these repos: keras-gat, MRAEA. Thanks for their great contributions!
+We refer to the codes of these repos: keras-gat, [MRAEA](https://github.com/MaoXinn/MRAEA). Thanks for their great contributions!
