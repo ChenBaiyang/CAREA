@@ -3,7 +3,7 @@ The code and dataset for paper "CAREA: Co-training Attribute and Relation Embedd
 
 ## Datasets
 
-The datasets are [BootEA](https://github.com/nju-websoft/BootEA)
+The datasets are from [BootEA](https://github.com/nju-websoft/BootEA)
 
 * ent_ids_1: ids for entities in source KG;
 * ent_ids_2: ids for entities in target KG;
@@ -15,10 +15,9 @@ The datasets are [BootEA](https://github.com/nju-websoft/BootEA)
 
 ## Environment
 
-* Anaconda>=4.3.30
 * Python>=3.7
-* Keras>=2.2.4
-* Tensorflow>=1.13.1
+* Keras>=2.2
+* Tensorflow>=1.13
 * Scipy
 * Numpy
 
