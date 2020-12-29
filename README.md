@@ -30,7 +30,7 @@ Baiyang Chen, Xiaoliang Chen, Peng Lu, Yajun Du, "CAREA: Cotraining Attribute an
 }
 
 ## Datasets
-The datasets are from [BootEA](https://github.com/nju-websoft/JAPE). Each dataset folder contain below files:
+The datasets are from [JAPE](https://github.com/nju-websoft/JAPE). Each dataset folder contain below files:
 
 * ent_ids_1: ids for entities in source KG (ZH/JA/FR);
 * ent_ids_2: ids for entities in target KG (EN);
