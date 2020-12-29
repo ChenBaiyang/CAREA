@@ -3,19 +3,20 @@ The code and dataset for paper "CAREA: Co-training Attribute and Relation Embedd
 
 ## Citation
 If you found the dataset or codes useful, please cite us as:
+
 Baiyang Chen, Xiaoliang Chen, Peng Lu, Yajun Du, "CAREA: Cotraining Attribute and Relation Embeddings for Cross-Lingual Entity Alignment in Knowledge Graphs", Discrete Dynamics in Nature and Society, vol. 2020, Article ID 6831603, 2020. https://doi.org/10.1155/2020/6831603
 
 @article{CAREA,
-   author = {Chen, Baiyang and Chen, Xiaoliang and Lu, Peng and Du, Yajun},
-   title = {{CAREA}: {C}otraining {A}ttribute and {R}elation {E}mbeddings for {C}ross-{L}ingual {E}ntity {A}lignment in {K}nowledge {G}raphs},
-   journal = {Discrete Dynamics in Nature and Society},
-   volume = {Vol. 2020},
-   pages = {Article ID 6831603},
-   ISSN = {1026-0226},
-   DOI = {10.1155/2020/6831603},
-   url = {https://doi.org/10.1155/2020/6831603},
-   year = {2020},
-   type = {Journal Article}
+  author = {Chen, Baiyang and Chen, Xiaoliang and Lu, Peng and Du, Yajun},
+  title = {{CAREA}: {C}otraining {A}ttribute and {R}elation {E}mbeddings for {C}ross-{L}ingual {E}ntity {A}lignment in {K}nowledge {G}raphs},
+  journal = {Discrete Dynamics in Nature and Society},
+  volume = {Vol. 2020},
+  pages = {Article ID 6831603},
+  ISSN = {1026-0226},
+  DOI = {10.1155/2020/6831603},
+  url = {https://doi.org/10.1155/2020/6831603},
+  year = {2020},
+  type = {Journal Article}
 }
 
 ## Datasets
