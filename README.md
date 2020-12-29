@@ -1,8 +1,8 @@
 # CAREA
-The code and datasets for our paper "CAREA: Co-training Attribute and Relation Embeddings for Cross-Lingual Entity Alignment in Knowledge Graphs", a.k.a., CAREA. It is open access on https://doi.org/10.1155/2020/6831603 .
+The code and datasets for our paper "CAREA: Co-training Attribute and Relation Embeddings for Cross-Lingual Entity Alignment in Knowledge Graphs", a.k.a., CAREA. It is open access on https://doi.org/10.1155/2020/6831603.
 
 ## Code
-Please use jupyter notebook to run our code.
+Please use jupyter notebook to run the codes.
 
 ### Dependencies
 
@@ -26,7 +26,7 @@ The datasets are from [JAPE](https://github.com/nju-websoft/JAPE). Each dataset 
 * en_all_attrs_range: the range code of attributes in target KG (EN).
 
 ## Citation
-If you found this model or code useful, please cite it as follows:      
+If you found this model or code useful, please download the citation data from https://doi.org/10.1155/2020/6831603, or cite it as follows:      
 ```
 @article{CAREA,
   author = {Chen, Baiyang and Chen, Xiaoliang and Lu, Peng and Du, Yajun},
