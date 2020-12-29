@@ -1,33 +1,16 @@
 # CAREA
-The code and dataset for paper "CAREA: Co-training Attribute and Relation Embeddings for Cross-Lingual Entity Alignment in Knowledge Graphs"
+The code and datasets for our paper "CAREA: Co-training Attribute and Relation Embeddings for Cross-Lingual Entity Alignment in Knowledge Graphs", a.k.a., CAREA. It is open access on https://doi.org/10.1155/2020/6831603 .
 
-## Citation
-If you found the dataset or codes useful, please cite us as:
+## Code
+Please use jupyter notebook to run our code.
 
-Baiyang Chen, Xiaoliang Chen, Peng Lu, Yajun Du, "CAREA: Cotraining Attribute and Relation Embeddings for Cross-Lingual Entity Alignment in Knowledge Graphs", Discrete Dynamics in Nature and Society, vol. 2020, Article ID 6831603, 2020. https://doi.org/10.1155/2020/6831603
+### Dependencies
 
-@article{CAREA,
-  author = {Chen, Baiyang and Chen, Xiaoliang and Lu, Peng and Du, Yajun},
-  
-  title = {{CAREA}: {C}otraining {A}ttribute and {R}elation {E}mbeddings for {C}ross-{L}ingual {E}ntity {A}lignment in {K}nowledge {G}raphs},
-  
-  journal = {Discrete Dynamics in Nature and Society},
-  
-  volume = {Vol. 2020},
-  
-  pages = {Article ID 6831603},
-  
-  ISSN = {1026-0226},
-  
-  DOI = {10.1155/2020/6831603},
-  
-  url = {https://doi.org/10.1155/2020/6831603},
-  
-  year = {2020},
-  
-  type = {Journal Article}
-  
-}
+* Python>=3.7
+* Keras>=2.2
+* Tensorflow>=1.13
+* Scipy
+* Numpy
 
 ## Datasets
 The datasets are from [JAPE](https://github.com/nju-websoft/JAPE). Each dataset folder contain below files:
@@ -42,13 +25,21 @@ The datasets are from [JAPE](https://github.com/nju-websoft/JAPE). Each dataset 
 * all_attrs_range: the range code of attributes in source KG (ZH/JA/FR);
 * en_all_attrs_range: the range code of attributes in target KG (EN).
 
-## Environment
-
-* Python>=3.7
-* Keras>=2.2
-* Tensorflow>=1.13
-* Scipy
-* Numpy
+## Citation
+If you found this model or code useful, please cite it as follows:      
+```
+@article{CAREA,
+  author = {Chen, Baiyang and Chen, Xiaoliang and Lu, Peng and Du, Yajun},
+  title = {{CAREA}: {C}otraining {A}ttribute and {R}elation {E}mbeddings for {C}ross-{L}ingual {E}ntity {A}lignment in {K}nowledge {G}raphs},
+  journal = {Discrete Dynamics in Nature and Society},
+  volume = {Vol. 2020},
+  pages = {Article ID 6831603},
+  ISSN = {1026-0226},
+  DOI = {10.1155/2020/6831603},
+  url = {https://doi.org/10.1155/2020/6831603},  
+  year = {2020},
+ }
+```
 
 ## Acknowledgement
 
