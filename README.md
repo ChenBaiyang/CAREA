@@ -36,7 +36,7 @@ If you found this model or code useful, please download the citation data from h
   pages = {Article ID 6831603},
   ISSN = {1026-0226},
   DOI = {10.1155/2020/6831603},
-  url = {https://doi.org/10.1155/2020/6831603},  
+  url = { https://doi.org/10.1155/2020/6831603 },  
   year = {2020},
  }
 ```
