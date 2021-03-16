@@ -1,6 +1,8 @@
 # CAREA
 The code and datasets for our paper "CAREA: Co-training Attribute and Relation Embeddings for Cross-Lingual Entity Alignment in Knowledge Graphs", a.k.a., CAREA. It is open access on https://doi.org/10.1155/2020/6831603.
 
+Download this article via: https://downloads.hindawi.com/journals/ddns/2020/6831603.pdf
+
 ## Code
 Please use jupyter notebook to run the codes.
 
